@@ -32,7 +32,7 @@ function Tile() {
         <div className="mx-auto -mt-52 w-screen max-w-2xl relative z-10">
           <div className="bg-white backdrop-blur-lg border border-gray-800 p-4 w-28 h-28 mx-auto grid place-content-center rounded-full">
             <img
-              src="https://res.cloudinary.com/krishnamohan479/image/upload/v1742135473/3dicons-setting-front-premium_aeqmys.png"
+              src="https://res.cloudinary.com/krishnamohan479/image/upload/f_webp/q_auto/v1742135473/3dicons-setting-front-premium_aeqmys.png"
               className={`transition-transform duration-500 ${loading ? "rotate-180" : ""}`} // Rotate on loading
               alt="loading-icon"
             />
